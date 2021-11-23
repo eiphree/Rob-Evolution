@@ -1,0 +1,15 @@
+how_many_round 20
+how_often_print 5
+begin_how_many_robs 1000
+begin_progr jpiwpljiipwijj
+begin_energy 100
+energy_from_food 5
+how_long_grows 3
+round_cost 2
+duplication_prob 0.3
+parent_energy_fraction 0.4
+duplication_limit 5
+delete_instr_prob 0.2
+add_instr_prob 0.8
+replace_instr_prob 0.2
+instr_register lpiwj
